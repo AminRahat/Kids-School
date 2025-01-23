@@ -293,7 +293,7 @@ button:hover {
 
 /* media quieries */
 
-@media (max-width: 576px) {
+@media (max-width: 576 px) {
   .spacing {
     padding-inline: 1rem;
   }
